@@ -1,4 +1,4 @@
-#  Demand Forecasting for Walmart
+#  Demand Forecasting using Walmart Sales Data
 
 ##  Overview
 This project focuses on **predicting product demand** in a retail/e-commerce environment using advanced **machine learning regression techniques**.  
